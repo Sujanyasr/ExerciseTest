@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-06T19:08:11 IST" name="Default suite" finished-at="2023-06-06T19:08:18 IST" duration-ms="7513">
+    <groups>
+    </groups>
+    <test started-at="2023-06-06T19:08:11 IST" name="Default test" finished-at="2023-06-06T19:08:18 IST" duration-ms="7513">
+      <class name="ExerciseTest.TestMartAppFeatures">
+        <test-method signature="getProductTitlesByWorseRating()[pri:0, instance:ExerciseTest.TestMartAppFeatures@5dd6264]" started-at="2023-06-06T19:08:11 IST" name="getProductTitlesByWorseRating" finished-at="2023-06-06T19:08:18 IST" duration-ms="7368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getProductTitlesByWorseRating -->
+      </class> <!-- ExerciseTest.TestMartAppFeatures -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
